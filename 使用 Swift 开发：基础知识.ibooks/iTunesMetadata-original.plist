@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>1151F45C5B775B45F0119A7145CF0F8B</string>
+		<key>cover-image-path</key>
+		<string>OPS/assets/images/cover-image.jpg</string>
+		<key>mime-type</key>
+		<string>application/x-ibooks+zip</string>
+		<key>package-file-hash</key>
+		<string>AE65022FBC2AB0D32483F98C3F49D7DB</string>
+		<key>publisher-unique-id</key>
+		<string>A50FF126-7D1C-4ECC-B198-1824133FD73E</string>
+		<key>unique-id</key>
+		<integer>3003449733040717883</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>使用 Swift 开发：基础知识</string>
+	<key>playlistName</key>
+	<string>使用 Swift 开发：基础知识</string>
+	<key>releaseDate</key>
+	<string>2021-08-17T08:12:26Z</string>
+</dict>
+</plist>
